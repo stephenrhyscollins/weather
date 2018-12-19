@@ -1,0 +1,15 @@
+{
+  "spec_dir": "spec",
+  "spec_files": [
+    "**/*[sS]pec.js",
+    "jasmine_kelvinToCelsius.js",
+    "jasmine_isDaytime.js",
+    "jasmine_mapCurrentWeather.js",
+    "jasmine_getWeatherIcon.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ],
+  "stopSpecOnExpectationFailure": false,
+  "random": true
+}
